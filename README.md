@@ -1,1 +1,0 @@
-# teltonika-fix-c-code
